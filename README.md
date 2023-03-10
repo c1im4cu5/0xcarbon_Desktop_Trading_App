@@ -4,7 +4,7 @@
 Downloadable executable files will soon be provided for mnemonic login for DEX app.dem.exchange on the 0xcarbon (Token: SWTH) blockchain with a user interface for (starting with) ping pong enabled trading on the platform. Initially, enabled users will be heavily restricted. Only downloadable files will be provided (PLEASE -- ONLY DOWNLOAD FROM GITHUB REPO). I will be seeking out others in the community to review the code for comment.
 
 ## Alpha Testing
-The program should be considered in its infancy. While I have worked out many of the obstacles I had encountered adjusting to TS, there are many pieces that still need to be put together. Currently, the bot will only place orders via Ping Pong. It will not follow up on filled orders. Along with websocket restart and triangular arbitrage, it'll reamin a top issue until resolution.
+The program should be considered in its infancy. While I have worked out many of the obstacles I had encountered adjusting to TS, there are many pieces that still need to be put together. Currently, the bot will only place orders via Ping Pong. It will not follow up on filled orders. Along with websocket restart and triangular arbitrage, it'll remain a top issue until resolution.
 
 ## Example Images
 
