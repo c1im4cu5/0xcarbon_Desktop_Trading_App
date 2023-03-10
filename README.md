@@ -16,6 +16,9 @@ The program should be considered in its infancy. While I have worked out many of
 
 ![alt text](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/blob/main/img/Carbon%20Bot%2005.png)
 
+![alt text](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/blob/main/img/Carbon%20Bot%2006.png)
+
+![alt text](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/blob/main/img/Carbon%20Bot%2009.png)
 
 I had ceased development a couple of months ago in the belief I would not be returning to it. While I remain hesitant to commit too much time to the project, I figured it was worth a shot of seeing the amount of sentiment for such a thing.
 
