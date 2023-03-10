@@ -16,7 +16,7 @@ The program should be considered in its infancy. While I have worked out many of
 
 ![alt text](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/blob/main/img/Carbon%20Bot%2005.png)
 
-![alt text](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/blob/main/img/Carbon%20Bot%2006.png)
+![alt text](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/blob/main/img/Carbon%20Bot%2008.png)
 
 ![alt text](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/blob/main/img/Carbon%20Bot%2010.png)
 
