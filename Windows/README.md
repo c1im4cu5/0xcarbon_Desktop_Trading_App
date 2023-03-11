@@ -9,4 +9,4 @@
 
 # TestNet
 
-Download is currently designed to access 0xcarbon TestNet. Please see information on main page for more details about accessing the bot.
+Download is currently designed to access 0xcarbon TestNet. Please see information on main page for more details about accessing the bot and its current abilities (or lack thereof).
