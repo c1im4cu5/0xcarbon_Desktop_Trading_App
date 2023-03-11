@@ -4,7 +4,7 @@
 
 # Windows Specifications
 
- Platform = win32 
+ Platform = win32 <br>  
  Arch=x64
 
 # TestNet
