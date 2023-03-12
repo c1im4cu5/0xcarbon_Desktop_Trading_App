@@ -29,7 +29,7 @@ A simple download will allow you access to the desktop app. You will NOT make it
 
 ## Download
 [Win32 Electric Carbon Download](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/releases/download/Alpha/Electric.Carbon.Setup.1.0.0.exe)
-PLEASE REMEMBER THIS IS NON-PRODUCTION READY. Many features, notifications and instructions are missing. The app will ONLY allow you access to TestNet. Prior to access, you'll need to contact me to have your SWTH address added. Please feel free to reach out!!!
+PLEASE REMEMBER THIS IS NON-PRODUCTION READY. Many features, notifications and instructions are missing. The app will ONLY allow you access to TestNet. Prior to access, you'll need to contact me to have your TSWTH address added. Please feel free to reach out!!!
 
 ## Contact
 If you are interested in working with me, I can be reached via info@parcae.io or on Telegram @c1im4cu5
