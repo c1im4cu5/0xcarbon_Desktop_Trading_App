@@ -28,8 +28,12 @@ I had ceased development a couple of months ago in the belief I would not be ret
 A simple download will allow you access to the desktop app. You will NOT make it past the login section unless you contact me. Authentication will check your address against a database. If your "SWTH" or "TSWTH" address is not registered with the database, you will not be allowed access. This is because the app is being developed for a subscription based trading experience on 0xcarbon.
 
 ## Download
-[Win32 Electric Carbon Download](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/releases/download/Alpha/Electric.Carbon.Setup.1.0.0.exe)
-PLEASE REMEMBER THIS IS NON-PRODUCTION READY. Many features, notifications and instructions are missing. The app will ONLY allow you access to TestNet. Prior to access, you'll need to contact me to have your TSWTH address added. Please feel free to reach out!!!
+[Win32 and Linux Debian Downloads](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/releases)
+PLEASE REMEMBER THESE ARE NON-PRODUCTION READY. Many features, notifications and instructions are missing. The app will ONLY allow you access to TestNet. Prior to access, you'll need to contact me to have your TSWTH address added. Please feel free to reach out!!!
 
-## Contact
-If you are interested in working with me, I can be reached via info@parcae.io or on Telegram @c1im4cu5
+[Telegram Channel](https://t.me/parcaeio)
+[Telegram Contact](https://t.me/c1im4cu5)
+Email: info@parcae.io
+
+## Development
+Development is halted while I assess interest in the program. If interest appears, I will work on completion of any open [Issues](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/issues). 
