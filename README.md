@@ -31,8 +31,8 @@ A simple download will allow you access to the desktop app. You will NOT make it
 [Win32 and Linux Debian Downloads](https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App/releases)
 PLEASE REMEMBER THESE ARE NON-PRODUCTION READY. Many features, notifications and instructions are missing. The app will ONLY allow you access to TestNet. Prior to access, you'll need to contact me to have your TSWTH address added. Please feel free to reach out!!!
 
-[Telegram Channel](https://t.me/parcaeio)
-[Telegram Contact](https://t.me/c1im4cu5)
+[Telegram Channel](https://t.me/parcaeio) <br>
+[Telegram Contact](https://t.me/c1im4cu5) <br>
 Email: info@parcae.io
 
 ## Development
