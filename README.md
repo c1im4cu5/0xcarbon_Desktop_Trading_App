@@ -1,7 +1,7 @@
 # Electric Carbon
 
 ## Abandoned
-There was no interest from the 0xcarbon community. The project was abandoned in early May 2023. All open requests will be closed.
+There was no interest from the 0xcarbon community. The project was abandoned in early May 2023. All open issues will be closed.
 
 ## 0xcarbon Blockchain based Desktop Trading App
 0xcarbon Desktop Trading App based in Express, NodeJS, Typescript
